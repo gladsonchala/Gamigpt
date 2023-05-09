@@ -1,4 +1,4 @@
-name: run main.py
+name: run run.py
 on: 
   schedule:
     - cron: '*/5 * * * *' # At 00:00 on Monday
